@@ -1,0 +1,10 @@
+RESUMO DA AULA 06 LÓGICA (24/08)
+
+
+
+A aula começa relembrando a importância da segurança do trabalho e da ergonomia no laboratório de informática, destacando a postura correta, a organização da bancada, as pausas e as normas de segurança. Depois,
+o conteúdo passa para a lógica de programação, apresentando os principais elementos usados na construção de algoritmos. Primeiro, são estudadas as variáveis,
+que são espaços nomeados na memória usados para guardar valores que podem mudar. A declaração define que a variável existe e qual é seu tipo, enquanto a atribuição serve para colocar ou alterar seu valor.
+Também é apresentado o conceito de escopo inicial, que indica onde uma variável existe e pode ser utilizada dentro do algoritmo. Em seguida, a aula explica as constantes, que são valores definidos uma vez e que não mudam durante a execução. A diferença principal é que a variável pode mudar de valor, enquanto a constante permanece fixa. Depois são apresentados os tipos de dados, que definem o tipo de informação que o programa pode manipular. Os principais são os dados numéricos, como idade, preço e quantidade; os textos, como nome, endereço e mensagem; e os booleanos ou lógicos, que representam verdadeiro ou falso. A aula também aborda os operadores aritméticos, utilizados para realizar adição, subtração, multiplicação, divisão e módulo, que corresponde ao resto da divisão. Para usar esses operadores corretamente, é necessário respeitar a ordem de prioridade das operações matemáticas. Por fim, são apresentados os operadores relacionais, usados para comparar valores, como maior, menor, maior ou igual, menor ou igual, igual e diferente. Essas comparações produzem como resultado um valor lógico, que pode ser verdadeiro ou falso.
+No final, a aula mostra que esses conceitos são usados em sistemas reais, como cadastro de clientes, controle de estoque e sistemas de login,
+e destaca que erros de tipagem podem causar problemas nos sistemas, enquanto boas práticas na criação de nomes de variáveis e no uso de constantes ajudam a deixar o código mais fácil de entender.
