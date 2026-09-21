@@ -1,0 +1,8 @@
+RESUMO DA AULA 07 (UC02 LÓGICA)
+
+
+Na aula 07 aprendi sobre operadores lógicos E, OU e NÃO.
+Entendi que o E só é verdadeiro quando todas as condições são verdadeiras, o 
+OU quando pelo menos uma é verdadeira e o NÃO serve para inverter uma condição. 
+Também aprendi a combinar esses operadores e transformar regras de negócio em expressões lógicas, 
+algo muito usado em sistemas, como login, compras, descontos e validação de formulários.
