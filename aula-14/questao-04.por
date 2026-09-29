@@ -3,7 +3,7 @@ programa
 	funcao inicio()
 	{
 		cadeia nome
-		real media_final, pontos_diferenca
+		real media_final, pontos_diferenca 
 
 		escreva("Digite o nome do aluno: ")
 		leia(nome)
